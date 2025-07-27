@@ -3,7 +3,7 @@
   <h3>This repository contains the codebase, demo, and resources for our AI-powered emotional support app developed for the CS Girlies Hackathon: A.I vs H.I</h3>
 
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-  [![GitHub forks](https://img.shields.io/github/forks/QaisarAbbas2024/Python-for-Absolute-Beginners.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/QaisarAbbas2024/Python-for-Absolute-Beginners/network/)
+  [![GitHub forks](https://img.shields.io/github/forks/QaisarAbbas2024/SentiPal.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/QaisarAbbas2024/SentiPal)
   [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
   [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
