@@ -1,6 +1,6 @@
 <div align="center">
   <h1>SentiPal - Emotional AI Companion</h1>
-  <h3>This repository contains the codebase, demo, and resources for our AI-powered emotional support app developed for the CS Girlies Hackathon: A.I vs H.I</h3>
+  <h3>This repository contains the codebase, demo, and resources for our AI-powered emotional support app developed for the "CS Girlies Hackathon: A.I vs H.I" </h3>
 
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
   [![GitHub forks](https://img.shields.io/github/forks/QaisarAbbas2024/SentiPal.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/QaisarAbbas2024/SentiPal)
@@ -12,37 +12,43 @@
 ---
 
 ## 🚀 Project Description
+We’re excited to present our hackathon project — SentiPal, your emotional AI companion. In a world full of productivity-focused AI tools, SentiPal brings back the soul. It's designed to vibe with you, laugh with you, and support your emotions in a way that feels unmistakably human.
 
 ### 🧠 What Does It Do?
-**SentiPal** is an AI-powered emotional support companion that detects the user's emotional tone from text and offers personalized, uplifting responses. Whether you're feeling down, excited, or just want to talk, SentiPal is here to respond with empathy and positivity.
+**SentiPal** is a chatbot with a twist. It doesn't just talk — it feels. It detects your emotions using natural language processing and responds with empathy, humor, or support. Whether you want a joke, a game, or some comforting advice, SentiPal is here to make your day better. It even celebrates with confetti 🎉, balloons 🎈, or snow ❄️ to match your mood ✨!
 
 ---
 
 ### 💡 What Inspired It?
-Mental health is an urgent issue, and millions suffer in silence. Inspired by the need for accessible, stigma-free emotional support, SentiPal was created to be a first step towards helping users feel seen, heard, and emotionally supported—anytime, anywhere.
+We were inspired by those moments when life feels a little heavy — when all you want is someone to talk to, even if it’s a quirky AI. We wanted to create a chaotic but kind companion that brings joy, acknowledges feelings, and reacts like a friend. This project is our way of blending emotional intelligence with artificial intelligence.
 
 ---
 
 ### 🛠️ Technologies Used
 - **Frontend**: [Streamlit](https://streamlit.io/)
-- **Backend NLP Model**: Hugging Face Transformers – DistilBERT-based sentiment classifier
+- **Hugging Face models**:
+  * Emotion Detection with j-hartmann/emotion-english-distilroberta-base
+  * Conversational replies from microsoft/DialoGPT-medium
 - **Deployment**: Hugging Face Spaces
-- **Language**: Python
+- **Fun effects**: JavaScript and Streamlit animations
+- **Version Control**: Git & GitHub
+- **Powered by**: Python, transformers, and a lot of love 💖.
 
 ---
 
 ### 🎯 Hackathon Track
-This project was submitted to the **"A.I vs H.I"** track of the [CS Girlies Hackathon](https://devpost.com/) hosted on DevPost.
+We’re submitting to the **"✨ Make Anything, But Make it YOU"** track of the [CS Girlies Hackathon](https://csgirlies.devpost.com/) hosted on DevPost.
+Why? Because SentiPal reflects our personality and emotions. It’s quirky, soulful, sometimes silly — and unmistakably us. This track encourages creativity over complexity, and that’s where SentiPal truly shines.
 
 ---
 
 ## 👥 Team Members & Roles
 
-| Name           | Role                           |
-|----------------|--------------------------------|
-| **Qaisar Abbas** | AI/NLP Developer, App Developer, Demo & Deployment |
-| **Team Member 2 (Name TBD)** | (Role e.g., UI/UX Designer or Research Assistant) |
-| **Team Member 3 (Name TBD)** | (Role e.g., Testing & Documentation) |
+| **Name**        | **Role**                                                                 |
+|-----------------|--------------------------------------------------------------------------|
+| **Qaisar Abbas** | • Lead Developer – App Design, Demo & Deployment, GitHub Repo Management  <br> • Full Stack Support – Logic, Functionality & Code Integration |
+| **Samra Kousar** | • Media Production – Video Recording & Editing  <br> • Visual Design – Presentation & Slide Creation |
+
 
 ---
 
